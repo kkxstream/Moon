@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>KK Xstream</title>
-  <link rel="stylesheet" href="style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0 , user-scalable=no">
 
 <script src="https://content.jwplatform.com/libraries/SAHhwvZq.js"></script> 
